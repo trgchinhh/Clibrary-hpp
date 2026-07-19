@@ -20,7 +20,7 @@
 
 ## Clibrary C++
 
-Clibrary là tập hợp những thư viện tiện ích dùng cho c++ với cú pháp ngắn gọn và linh hoạt, trong đó có những thư viện tôi tự build và những thư viện open-source tiện ích khác mà mình hay dùng.
+Clibrary là tập hợp những thư viện tiện ích dùng cho c++ với cú pháp ngắn gọn và linh hoạt, trong đó có những thư viện mình tự build và những thư viện open source tiện ích khác mà mình hay dùng.
 
 Với mục đích cú pháp ngắn gọn làm cho c++ ngày càng dễ tiếp cận hơn với các thư viện std 1 cách dễ dàng thông qua những thư viện đã được build sẵn cho cách sử dụng tiện hơn và ít phải khai triển hơn.
 
