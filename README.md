@@ -31,7 +31,7 @@ Với mục đích cú pháp ngắn gọn làm cho c++ ngày càng dễ tiếp c
 ### Thư viện tôi build
 
 | Tên thư viện | Miêu tả thư viện | Link |
-|--- | ---| ---|--- |
+|:---:|:---|:---|
 | hashlib-cpp | Thư viện với các băm dữ liệu dựa trên openssl | [hashlib-cpp](https://github.com/trgchinhh/Clibrary-hpp/tree/main/hashlib-cpp) |
 | datetime-cpp | Thư viện lấy ngày giờ hệ thống dựa trên chrono | [datetime-cpp](https://github.com/trgchinhh/Clibrary-hpp/tree/main/datetime-cpp) |
 | list-cpp | Thư viện tự build giống list của python | [list-cpp](https://github.com/trgchinhh/Clibrary-hpp/tree/main/list-cpp) |
